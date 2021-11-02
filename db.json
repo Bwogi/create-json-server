@@ -1,0 +1,41 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Title One",
+      "body": "This is the body",
+      "publishedAt": "11-01-2021"
+    },
+    {
+      "id": "2",
+      "title": "Title Two",
+      "body": "This is the body",
+      "publishedAt": "11-01-2021"
+    },
+    {
+      "id": "3",
+      "title": "Title Three",
+      "body": "This is the body",
+      "publishedAt": "11-01-2021"
+    },
+    {
+      "title": "Title Four",
+      "body": "This is the body",
+      "publishedAt": "11-02-2021",
+      "id": "bXzSjIS"
+    },
+    {
+      "title": "Title Five",
+      "body": "This is the body",
+      "publishedAt": "11-02-2021",
+      "id": "CCpGiGT"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Bwogi Andrew",
+      "email": "bwogi@andrew.com"
+    }
+  ]
+}
